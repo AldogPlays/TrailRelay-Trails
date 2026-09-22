@@ -1,0 +1,13 @@
+{
+  "id": "santiago-peak-via-maple-springs-visitor-center",
+  "name": "Santiago Peak via Maple Springs Visitor Center",
+  "description": "Out-and-back route to Santiago Peak via Maple Springs, suitable for off-road driving, hiking, and mountain biking.",
+  "state": "CA",
+  "region": "Orange County / Riverside County",
+  "difficulty": "hard",
+  "vehicleTypes": ["4x4", "hiking", "bicycle"],
+  "tags": ["off-road", "hiking", "bicycle", "rocky", "views"],
+  "distanceMiles": 23.93,
+  "sourceUrl": "https://www.alltrails.com/trail/us/california/santiago-peak-via-maple-springs-visitor-center",
+  "updatedAt": "2026-09-22"
+}

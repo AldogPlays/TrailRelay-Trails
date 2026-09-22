@@ -139,6 +139,13 @@ Current trail records may include:
 - optional `sourceUrl` when embedded source metadata is available
 - `updatedAt`
 
+`state` is the two-letter U.S. state code. `region` is always the U.S. county
+or counties containing the GPX geometry, not a national forest, mountain
+range, city, vague area, or state name. Use `San Bernardino County` for one
+county. When geometry genuinely crosses county boundaries, list all affected
+counties alphabetically as `Orange County / Riverside County`; do not select a
+primary county. Determine counties from reliable geographic evidence.
+
 Use the existing repository schema as authoritative. If an important value
 cannot be derived reliably, ask the user. Never invent difficulty, legal
 vehicle access, vehicle compatibility, land-access status, closures, or trail
@@ -215,6 +222,7 @@ At minimum, validate that:
 - every referenced GPX has usable track geometry;
 - calculated distances are sensible and do not cross segment gaps;
 - catalog and trail metadata agree where expected;
+- region values use the county standard;
 - `git diff --check` passes.
 
 Do not recreate `scripts/trails.py`, a TUI, or another custom trail-management

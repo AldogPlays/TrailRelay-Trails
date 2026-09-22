@@ -1,0 +1,13 @@
+{
+  "id": "cleghorn-ridge-ohv-road",
+  "name": "Cleghorn Ridge OHV Road: I-15 to Highway 138 at Silverwood Lake",
+  "description": "Technical OHV route across Cleghorn Ridge from I-15 to Highway 138 at Silverwood Lake, with a fire road and 4x4 options.",
+  "state": "CA",
+  "region": "San Bernardino County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "rocky", "views"],
+  "distanceMiles": 14.62,
+  "sourceUrl": "https://www.alltrails.com/trail/us/california/cleghorn-ridge-trail",
+  "updatedAt": "2026-09-22"
+}

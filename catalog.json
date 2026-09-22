@@ -2,18 +2,46 @@
   "schemaVersion": 1,
   "trails": [
     {
-      "id": "test-trail",
-      "name": "TrailRelay Test Trail",
-      "description": "Initial community catalog test trail.",
+      "id": "cleghorn-ridge-ohv-road",
+      "name": "Cleghorn Ridge OHV Road: I-15 to Highway 138 at Silverwood Lake",
+      "description": "Technical OHV route across Cleghorn Ridge from I-15 to Highway 138 at Silverwood Lake, with a fire road and 4x4 options.",
       "state": "CA",
-      "region": "Test Region",
-      "difficulty": "easy",
-      "vehicleTypes": ["4x4", "sxs"],
-      "tags": ["test"],
-      "distanceMiles": 11.08,
-      "gpxUrl": "trails/test-trail/trail.gpx",
+      "region": "San Bernardino County",
+      "difficulty": "moderate",
+      "vehicleTypes": ["4x4"],
+      "tags": ["ohv", "off-road", "rocky", "views"],
+      "distanceMiles": 14.62,
+      "gpxUrl": "trails/cleghorn-ridge-ohv-road/trail.gpx",
       "updatedAt": "2026-09-22",
-      "sourceUrl": "http://www.alltrails.com"
+      "sourceUrl": "https://www.alltrails.com/trail/us/california/cleghorn-ridge-trail"
+    },
+    {
+      "id": "gold-fever-ohv-trail",
+      "name": "Gold Fever OHV Trail",
+      "description": "OHV route through historic Belleville remnants, with dunes, a saddle viewpoint, and potentially rutted or rocky sections.",
+      "state": "CA",
+      "region": "San Bernardino County",
+      "difficulty": "moderate",
+      "vehicleTypes": ["4x4"],
+      "tags": ["ohv", "off-road", "historic", "camping", "views"],
+      "distanceMiles": 11.08,
+      "gpxUrl": "trails/gold-fever-ohv-trail/trail.gpx",
+      "updatedAt": "2026-09-22",
+      "sourceUrl": "https://www.alltrails.com/trail/us/california/gold-fever-trail"
+    },
+    {
+      "id": "santiago-peak-via-maple-springs-visitor-center",
+      "name": "Santiago Peak via Maple Springs Visitor Center",
+      "description": "Out-and-back route to Santiago Peak via Maple Springs, suitable for off-road driving, hiking, and mountain biking.",
+      "state": "CA",
+      "region": "Orange County / Riverside County",
+      "difficulty": "hard",
+      "vehicleTypes": ["4x4", "hiking", "bicycle"],
+      "tags": ["off-road", "hiking", "bicycle", "rocky", "views"],
+      "distanceMiles": 23.93,
+      "gpxUrl": "trails/santiago-peak-via-maple-springs-visitor-center/trail.gpx",
+      "updatedAt": "2026-09-22",
+      "sourceUrl": "https://www.alltrails.com/trail/us/california/santiago-peak-via-maple-springs-visitor-center"
     }
   ]
 }

@@ -22,6 +22,8 @@ trails/<trail-id>/trail.json
 
 `catalog.json` references these GPX files and is consumed by TrailRelay. Keep
 the existing JSON shape and stable trail IDs compatible with the application.
+The `state` field uses a two-letter U.S. state code; `region` uses the county
+or alphabetized slash-separated counties containing the GPX geometry.
 
 For trail contributions, provide the GPX file to the repository maintainer or
 Codex. Codex handles GPX inspection, metadata preparation, trail files,
