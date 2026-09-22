@@ -7,6 +7,7 @@
   "difficulty": "easy",
   "vehicleTypes": ["4x4", "sxs"],
   "tags": ["test"],
-  "distanceMiles": 1.0,
+  "distanceMiles": 11.08,
+  "sourceUrl": "http://www.alltrails.com",
   "updatedAt": "2026-09-22"
 }

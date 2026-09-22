@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "vehicleTypes": ["4x4", "sxs"],
       "tags": ["test"],
-      "distanceMiles": 1.0,
+      "distanceMiles": 11.08,
       "gpxUrl": "trails/test-trail/trail.gpx",
-      "updatedAt": "2026-09-22"
+      "updatedAt": "2026-09-22",
+      "sourceUrl": "http://www.alltrails.com"
     }
   ]
 }
-
