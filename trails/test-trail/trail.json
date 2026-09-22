@@ -1,0 +1,12 @@
+{
+  "id": "test-trail",
+  "name": "TrailRelay Test Trail",
+  "description": "Initial community catalog test trail.",
+  "state": "CA",
+  "region": "Test Region",
+  "difficulty": "easy",
+  "vehicleTypes": ["4x4", "sxs"],
+  "tags": ["test"],
+  "distanceMiles": 1.0,
+  "updatedAt": "2026-09-22"
+}
