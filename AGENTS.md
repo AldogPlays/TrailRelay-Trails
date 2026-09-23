@@ -144,7 +144,17 @@ or counties containing the GPX geometry, not a national forest, mountain
 range, city, vague area, or state name. Use `San Bernardino County` for one
 county. When geometry genuinely crosses county boundaries, list all affected
 counties alphabetically as `Orange County / Riverside County`; do not select a
-primary county. Determine counties from reliable geographic evidence.
+primary county.
+
+Resolve counties using the cheapest reliable evidence first: trustworthy trail
+or source metadata, a known trail location, or one or a few representative GPX
+coordinates. If that evidence clearly identifies one county, use it and stop.
+Perform detailed county-boundary or geometry checking only when there is a
+specific reason to suspect a crossing, such as representative points resolving
+to different counties, a route known to be near a county boundary, conflicting
+source information, or geometry that visibly spans a boundary area. Do not
+download Census shapefiles or perform exhaustive per-point GIS analysis for
+ordinary, clearly single-county trails.
 
 Use the existing repository schema as authoritative. If an important value
 cannot be derived reliably, ask the user. Never invent difficulty, legal
