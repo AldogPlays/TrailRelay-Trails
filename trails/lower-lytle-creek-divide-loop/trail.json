@@ -1,0 +1,13 @@
+{
+  "id": "lower-lytle-creek-divide-loop",
+  "name": "Lower Lytle Creek Divide Loop",
+  "description": "OHV loop from Texas Hill Trailhead along Lytle Creek Divide to Applewhite Campground.",
+  "state": "CA",
+  "region": "San Bernardino County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "hiking", "bicycle", "views"],
+  "distanceMiles": 17.66,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/lower-lytle-creek-divide-loop?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}

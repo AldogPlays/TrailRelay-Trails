@@ -1,0 +1,13 @@
+{
+  "id": "mojave-road-ohv-trail",
+  "name": "Mojave Road OHV Trail",
+  "description": "Long OHV route across the Mojave Desert.",
+  "state": "CA",
+  "region": "San Bernardino County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "desert", "historic"],
+  "distanceMiles": 137.32,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/mojave-road-ohv-trail?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}

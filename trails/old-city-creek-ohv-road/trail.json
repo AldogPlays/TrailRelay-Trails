@@ -1,0 +1,13 @@
+{
+  "id": "old-city-creek-ohv-road",
+  "name": "Old City Creek OHV Road",
+  "description": "OHV road in the San Bernardino Mountains.",
+  "state": "CA",
+  "region": "San Bernardino County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "views"],
+  "distanceMiles": 26.04,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/old-city-creek-ohv-road?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}

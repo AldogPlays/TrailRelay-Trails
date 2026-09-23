@@ -1,0 +1,13 @@
+{
+  "id": "juniper-flats-ohv-route",
+  "name": "Juniper Flats OHV Route",
+  "description": "OHV route in the Juniper Flats designated route system.",
+  "state": "CA",
+  "region": "San Bernardino County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "views"],
+  "distanceMiles": 10.37,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/juniper-flats-ohv-route?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}

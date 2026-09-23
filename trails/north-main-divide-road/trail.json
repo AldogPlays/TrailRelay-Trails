@@ -1,0 +1,13 @@
+{
+  "id": "north-main-divide-road",
+  "name": "North Main Divide Road",
+  "description": "Long route along North Main Divide in Cleveland National Forest.",
+  "state": "CA",
+  "region": "Orange County / Riverside County",
+  "difficulty": "hard",
+  "vehicleTypes": ["4x4"],
+  "tags": ["off-road", "hiking", "bicycle", "views"],
+  "distanceMiles": 74.95,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/north-main-divide-trail?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}

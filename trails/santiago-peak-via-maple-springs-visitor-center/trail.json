@@ -5,7 +5,7 @@
   "state": "CA",
   "region": "Orange County / Riverside County",
   "difficulty": "hard",
-  "vehicleTypes": ["4x4", "hiking", "bicycle"],
+  "vehicleTypes": ["4x4"],
   "tags": ["off-road", "hiking", "bicycle", "rocky", "views"],
   "distanceMiles": 23.93,
   "sourceUrl": "https://www.alltrails.com/trail/us/california/santiago-peak-via-maple-springs-visitor-center",

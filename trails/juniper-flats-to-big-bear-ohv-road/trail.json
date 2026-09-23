@@ -1,0 +1,13 @@
+{
+  "id": "juniper-flats-to-big-bear-ohv-road",
+  "name": "Juniper Flats to Big Bear OHV Road",
+  "description": "OHV route from Juniper Flats to Big Bear, with campgrounds and scenic lookouts along the way.",
+  "state": "CA",
+  "region": "San Bernardino County",
+  "difficulty": "hard",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "camping", "views"],
+  "distanceMiles": 22.93,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/juniper-flats-to-big-bear-ohv-road?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pioneertown-to-big-bear-via-burns-canyon-road-and-2n02",
+  "name": "Pioneertown to Big Bear via Burns Canyon Road and 2N02",
+  "description": "Point-to-point off-road route from Pioneertown to Big Bear; a high-clearance vehicle is recommended for its rough and steep sections.",
+  "state": "CA",
+  "region": "San Bernardino County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "rocky", "views"],
+  "distanceMiles": 24.63,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/pioneertown-to-big-bear-via-burns-canyon-road-and-2n02?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}

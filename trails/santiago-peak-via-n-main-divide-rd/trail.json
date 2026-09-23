@@ -1,0 +1,13 @@
+{
+  "id": "santiago-peak-via-n-main-divide-rd",
+  "name": "Santiago Peak via N Main Divide Rd",
+  "description": "Off-road route to Santiago Peak via North Main Divide Road.",
+  "state": "CA",
+  "region": "Orange County / Riverside County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["off-road", "hiking", "bicycle", "views"],
+  "distanceMiles": 15.93,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/santiago-peak?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}
