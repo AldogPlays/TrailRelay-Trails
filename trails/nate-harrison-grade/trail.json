@@ -1,0 +1,13 @@
+{
+  "id": "nate-harrison-grade",
+  "name": "Nate Harrison Grade",
+  "description": "Road route between the Pauma Valley area and Palomar Mountain.",
+  "state": "CA",
+  "region": "San Diego County",
+  "difficulty": "easy",
+  "vehicleTypes": ["4x4"],
+  "tags": ["off-road", "views"],
+  "distanceMiles": 16.45,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/nate-harrison-grade--4?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}

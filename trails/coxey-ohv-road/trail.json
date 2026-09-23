@@ -1,0 +1,13 @@
+{
+  "id": "coxey-ohv-road",
+  "name": "Coxey OHV Road",
+  "description": "Mostly public OHV road near Cedar Glen; stay on the mapped route where it crosses private-property easements.",
+  "state": "CA",
+  "region": "San Bernardino County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "views"],
+  "distanceMiles": 19.51,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/coxey-rd?u=i&sh=0omshx",
+  "updatedAt": "2026-09-22"
+}

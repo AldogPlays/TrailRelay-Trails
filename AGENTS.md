@@ -161,10 +161,10 @@ cannot be derived reliably, ask the user. Never invent difficulty, legal
 vehicle access, vehicle compatibility, land-access status, closures, or trail
 legality.
 
-Vehicle values currently used by TrailRelay include `4x4`, `sxs`, `atv`,
-`motorcycle`, `hiking`, and `bicycle`. Inspect existing application or
-repository expectations before introducing another value. Do not infer vehicle
-access merely because a GPX exists.
+Vehicle values are limited to `2wd` and `4x4`. Use exactly one of
+`["2wd"]`, `["4x4"]`, or `["2wd", "4x4"]`, based on reliable route-access
+information. Do not use activity labels such as `hiking` or `bicycle` as
+vehicle types, and do not infer vehicle access merely because a GPX exists.
 
 Every trail uses exactly:
 
