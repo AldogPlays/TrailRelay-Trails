@@ -1,0 +1,13 @@
+{
+  "id": "red-oak-ohv-trail-and-craycroft-ridge",
+  "name": "Red Oak OHV Trail and Craycroft Ridge",
+  "description": "OHV route following Red Oak Trail and Craycroft Ridge near Downieville.",
+  "state": "CA",
+  "region": "Sierra County",
+  "difficulty": "hard",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "views"],
+  "distanceMiles": 17.82,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/red-oak-ohv-trail-and-craycroft-ridge?u=i&sh=0omshx",
+  "updatedAt": "2026-09-25"
+}

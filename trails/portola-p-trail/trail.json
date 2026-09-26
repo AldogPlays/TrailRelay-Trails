@@ -1,0 +1,13 @@
+{
+  "id": "portola-p-trail",
+  "name": "Portola \"P\" Trail",
+  "description": "Steep, loose, rocky 4x4 route climbing above Portola toward the \"P\" landmark.",
+  "state": "CA",
+  "region": "Plumas County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "rocky", "views"],
+  "distanceMiles": 3.42,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/portola-p-trail?u=i&sh=0omshx",
+  "updatedAt": "2026-09-25"
+}

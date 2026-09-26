@@ -1,0 +1,13 @@
+{
+  "id": "buttermilk-ohv-road",
+  "name": "Buttermilk OHV Road",
+  "description": "OHV route through Buttermilk Country near Bishop, with rocky sections requiring high clearance and four-wheel drive.",
+  "state": "CA",
+  "region": "Inyo County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "rocky", "views"],
+  "distanceMiles": 14.58,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/buttermilk-road?u=i&sh=0omshx",
+  "updatedAt": "2026-09-25"
+}

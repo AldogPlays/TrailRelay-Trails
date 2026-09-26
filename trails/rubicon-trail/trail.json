@@ -1,0 +1,13 @@
+{
+  "id": "rubicon-trail",
+  "name": "Rubicon Trail",
+  "description": "Rocky, technical 4x4 route from the Loon Lake area toward Lake Tahoe.",
+  "state": "CA",
+  "region": "El Dorado County / Placer County",
+  "difficulty": "hard",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "rocky", "views"],
+  "distanceMiles": 18.1,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/rubicon-trail--15?u=i&sh=0omshx",
+  "updatedAt": "2026-09-25"
+}

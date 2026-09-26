@@ -1,0 +1,13 @@
+{
+  "id": "plumas-eureka-campground-to-spencer-lakes-ohv-trail",
+  "name": "Plumas Eureka Campground to Spencer Lakes OHV Trail",
+  "description": "Jeep route from Plumas Eureka Campground toward Spencer Lakes through forest and rocky terrain.",
+  "state": "CA",
+  "region": "Plumas County",
+  "difficulty": "moderate",
+  "vehicleTypes": ["4x4"],
+  "tags": ["ohv", "off-road", "rocky", "views"],
+  "distanceMiles": 8.45,
+  "sourceUrl": "https://www.alltrails.com/explore/trail/us/california/plumas-eureka-to-spencer-lakes-trail?u=i&sh=0omshx",
+  "updatedAt": "2026-09-25"
+}
